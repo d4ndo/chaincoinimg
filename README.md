@@ -2,7 +2,7 @@
 
 Just some fun stuff.
 
-![512x512](https://github.com/d4ndo/chaincoinimg/blob/master/chaincoinimg.png "512x512")
+![256x256](https://github.com/d4ndo/chaincoinimg/blob/master/chaincoinimg.png "256x256")
 
 ## Fonts required
  
@@ -16,4 +16,4 @@ https://www.fontsquirrel.com/fonts/alegreya-sans
 
  Inkscape, ImageMagick and Make
  
- Run make to convert the svg files to jpg files.
+ Run make to convert the svg files to png files.
